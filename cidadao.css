@@ -154,7 +154,13 @@ body {
     color: #147BB4;
     font-size: 14px;
 }
-
+#nomeloja {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 10vh;
+    background-color: aliceblue;
+    height: 10vh;
+}
 #footer {
     display: none;
     height: 10vh;
